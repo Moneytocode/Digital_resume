@@ -140,7 +140,6 @@ st.write("""
               - Python boot camp course Udemy 2020
               - Devops complete hands on by udemy 2023
               - FSE certified by Cognizant.
-              - Cloud certification (Azure104) expected by JAN 2024
          """)
 
 st.write("""
